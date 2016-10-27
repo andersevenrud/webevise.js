@@ -1,0 +1,58 @@
+{
+  "libraries": [
+    "/mnt/hdd-backup/Series",
+    "/data/Downloads"
+  ],
+  "presets": {
+    "240p": {
+      "video": {
+        "bitrate": "700k",
+        "framerate": 29.7,
+        "dimension": "352x240"
+      },
+      "audio": {
+        "bitrate": "128k"
+      }
+    },
+    "360p": {
+      "video": {
+        "bitrate": "1000k",
+        "framerate": 29.7,
+        "dimension": "480x360"
+      },
+      "audio": {
+        "bitrate": "128k"
+      }
+    },
+    "480p": {
+      "video": {
+        "bitrate": "2000k",
+        "framerate": 29.7,
+        "dimension": "858x480"
+      },
+      "audio": {
+        "bitrate": "128k"
+      }
+    },
+    "720": {
+      "video": {
+        "bitrate": "400k",
+        "framerate": 29.7,
+        "dimension": "1280x720"
+      },
+      "audio": {
+        "bitrate": "128k"
+      }
+    },
+    "1080p": {
+      "video": {
+        "bitrate": "600k",
+        "framerate": 29.7,
+        "dimension": "1920x1080"
+      },
+      "audio": {
+        "bitrate": "128k"
+      }
+    }
+  }
+}

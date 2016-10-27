@@ -1,0 +1,12 @@
+{
+  "name": "webevise.js",
+  "version": "0.0.1",
+  "description": "Stream you video library to any device supporting HTML5 video.",
+  "author": "Anders Evenrud <andersevenrud@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.0",
+    "simple-session": "0.0.1",
+    "ws": "^1.1.1"
+  }
+}
